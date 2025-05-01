@@ -47,3 +47,7 @@ DELETE /api/thoughts/:thoughtId — Delete a thought
 POST /api/thoughts/:thoughtId/reactions — Add a reaction to a thought
 
 DELETE /api/thoughts/:thoughtId/reactions/:reactionId — Remove a reaction
+
+VIDEO ->
+https://app.screencastify.com/v2/watch/NYh620kix2rNWE1C0k1L
+
